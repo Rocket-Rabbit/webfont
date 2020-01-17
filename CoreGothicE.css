@@ -6,10 +6,3 @@
        url('CoreGothicE-4Regular.woff') format('woff');
 }
 
-@font-face {
-  font-family: 'Core';
-  font-style: normal;
-  font-weight: 600;
-  src: url('CoreGothicE-6Bold.woff2') format('woff2'),
-       url('CoreGothicE-6Bold.woff') format('woff');
-}
